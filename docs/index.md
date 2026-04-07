@@ -18,7 +18,14 @@ This page provides a presentation on **Getting Started with Python in ArcGIS Pro
 *November 17, 2020, 2:00pm, presented by Gerald Romme*  
 This talk illustrates how to get started using Python in ArcGIS Pro and as a stand alone program to automate geoprocessing tools through the ArcPy site package.
 
-[Link to Slides](https://maps.library.utoronto.ca/workshops/BitsBytesTalks/ArcPY_Python%202020_11_17.pdf)  
+<h3>Slides</h3>
+<iframe
+  src="https://maps.library.utoronto.ca/workshops/BitsBytesTalks/ArcPY_Python%202020_11_17.pdf"
+  width="100%"
+  height="500"
+  style="border: none;">
+</iframe>
+ 
 [Link to Recording - 33:31](https://play.library.utoronto.ca/28e080f8706fe1a14bc67fe673cd8ad1)
 
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
