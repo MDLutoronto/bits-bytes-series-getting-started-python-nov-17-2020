@@ -29,5 +29,3 @@ This talk illustrates how to get started using Python in ArcGIS Pro and as a sta
 [Link to Recording - 33:31](https://play.library.utoronto.ca/28e080f8706fe1a14bc67fe673cd8ad1)
 
 Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
-
-Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis), [Projecting](https://mdl.library.utoronto.ca/technique/projecting) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70), [Python](https://mdl.library.utoronto.ca/tools/python)
