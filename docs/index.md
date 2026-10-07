@@ -25,7 +25,7 @@ This talk illustrates how to get started using Python in ArcGIS Pro and as a sta
 
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/28e080f8706fe1a14bc67fe673cd8ad1" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-Please visit the [Bits and Bytes webpage](https://mdl.library.utoronto.ca/support/workshops-training/bits-and-bytes) for more presentations on various tools and topics.
+Please visit the [Bits and Bytes webpage](https://mdlutoronto.github.io/tutorials-search/?series=Bits+and+Bytes) for more presentations on various tools and topics.
 
 
-**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis), [Projecting](https://mdlutoronto.github.io/tutorials-search/?technique=Projecting) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro), [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python) \| **Series:** [Bits and Bytes](https://mdlutoronto.github.io/tutorials-search/?series=Bits+and+Bytes)
+**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis), [Projecting](https://mdlutoronto.github.io/tutorials-search/?technique=Projecting) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro), [Python](https://mdlutoronto.github.io/tutorials-search/?tool=Python) | **Series:** [Bits and Bytes](https://mdlutoronto.github.io/tutorials-search/?series=Bits+and+Bytes)
